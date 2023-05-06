@@ -1,0 +1,7 @@
+login: admin
+password: 1234
+token: 77733b7af892902835cf128e663593406964887e
+
+login: user
+password: haswaspake
+token: 5fae7c3accc7fa829361e1d1f0ee69fd9e5805b4
